@@ -1,0 +1,12 @@
+table {
+    border-collapse: collapse;
+}
+td,td {
+    border: 1px solid darkorange;
+    padding: 0.5em;
+    font-size: 32px;
+}
+
+th {
+    background-color: gray;
+}
